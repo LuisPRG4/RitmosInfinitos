@@ -1596,3 +1596,18 @@ footer .social-links a:hover {
         grid-template-columns: 1fr; /* Una columna en pantallas pequeñas */
     }
 }
+
+/* ESTELA */
+.estela-image {
+    position: relative;
+    z-index: 2;
+    margin: 0 20px;
+    max-width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.estela-image img {
+    border-radius: 60px; /* Bordes redondeados para la imagen */
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.4);    
+}
