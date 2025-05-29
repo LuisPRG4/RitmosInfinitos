@@ -6,236 +6,236 @@
                 src: 'audio/Dj Yoval Gonzalez/Agua Ardiente  DJ Yoval Gonzalez Original Mix.mp3',
                 title: 'Agua Ardiente',
                 artist: 'DJ Yoval Gonzalez',
-                artwork: 'img/Caratulas/Aguardiente.png'
+                artwork: 'img/Aguardiente.png'
             },
             {
                 src: 'audio/Dj Yoval Gonzalez/La isla Bonita - DJ Yoval Gonzalez (Afro Lantin Remix).mp3',
                 title: 'La Isla Bonita',
                 artist: 'DJ Yoval Gonzalez',
-                artwork: 'img/Caratulas/La Isla Bonita.png'
+                artwork: 'img/La Isla Bonita.png'
             },
             {
                 src: 'audio/Dj Yoval Gonzalez/Oliver Twist - DJ Yoval Gonzalez (Mashup) _afrolatin _remix.mp3',
                 title: 'Oliver Twist',
                 artist: 'DJ Yoval Gonzalez',
-                artwork: 'img/Caratulas/Oliver Twist.png'
+                artwork: 'img/Oliver Twist.png'
             },
 
             {
                 src: 'audio/Dj Yoval Gonzalez/Afro Tropical Afro REMIX DJ Yoval Gonzalez afrohouse afrolatin 2022.mp3',
                 title: 'Afro Tropical Afro Remix',
                 artist: 'DJ Yoval Gonzalez',
-                artwork: 'img/Caratulas/Afro Tropical Afro Remix.png'
+                artwork: 'img/Afro Tropical Afro Remix.png'
             },
 
             {
                 src: 'audio/Dj Yoval Gonzalez/Amañando  DJ Yoval Gonzalez Original Mix.mp3',
                 title: 'Amañando',
                 artist: 'DJ Yoval Gonzalez',
-                artwork: 'img/Caratulas/Amañando.png'
+                artwork: 'img/Amañando.png'
             },
 
             {
                 src: 'audio/Dj Yoval Gonzalez/Bad  DJ Yoval Gonzalez Private.mp3',
                 title: 'Bad',
                 artist: 'DJ Yoval Gonzalez',
-                artwork: 'img/Caratulas/BAD.png'
+                artwork: 'img/BAD.png'
             },
 
             {
                 src: 'audio/Dj Yoval Gonzalez/Bahari  DJ Yoval Gonzalez Original Mix afro latin house.mp3',
                 title: 'Bahari',
                 artist: 'DJ Yoval Gonzalez',
-                artwork: 'img/Caratulas/Bahari.png'
+                artwork: 'img/Bahari.png'
             },
 
             {
                 src: 'audio/Dj Yoval Gonzalez/Cafe Con Ron (DJ Yoval Gonzalez Remix) _afrohousemusic.mp3',
                 title: 'Café Con Ron',
                 artist: 'DJ Yoval Gonzalez',
-                artwork: 'img/Caratulas/Café Con Ron.png'
+                artwork: 'img/Café Con Ron.png'
             },
 
             {
                 src: 'audio/Dj Yoval Gonzalez/Caipiriña Remix  DJ Yoval Gonzalez Tech Version.mp3',
                 title: 'Caipiriña Remix',
                 artist: 'DJ Yoval Gonzalez',
-                artwork: 'img/Caratulas/Caipiriña Remix.png'
+                artwork: 'img/Caipiriña Remix.png'
             },
 
             {
                 src: 'audio/Dj Yoval Gonzalez/caipiriña  DJ Yoval Gonzalez OriginalMix afro house latin.mp3',
                 title: 'Caipiriña',
                 artist: 'DJ Yoval Gonzalez',
-                artwork: 'img/Caratulas/Caipiriña.png'
+                artwork: 'img/Caipiriña.png'
             },
 
             {
                 src: 'audio/Dj Yoval Gonzalez/Daikiry  DJ Yoval Gonzalez Original mix.mp3',
                 title: 'Daikiry',
                 artist: 'DJ Yoval Gonzalez',
-                artwork: 'img/Caratulas/Daikiry.png'
+                artwork: 'img/Daikiry.png'
             },
 
             {
                 src: 'audio/Dj Yoval Gonzalez/DJ Yoval Gonzalez  Sunday Beach WAIKIKI   DJ SET 001  2 de Jul 2023 afrohouse2023.mp3',
                 title: 'Sunday Beach WAIKIKI DJ SET 001',
                 artist: 'DJ Yoval Gonzalez',
-                artwork: 'img/Caratulas/Sunday Beach.png'
+                artwork: 'img/Sunday Beach.png'
             },
 
             {
                 src: 'audio/Dj Yoval Gonzalez/Flow Oriental DJ Yoval Gonzalez Original Mix.mp3',
                 title: 'Flow Oriental',
                 artist: 'DJ Yoval Gonzalez',
-                artwork: 'img/Caratulas/Flow Oriental.png'
+                artwork: 'img/Flow Oriental.png'
             },
             
             {
                 src: 'audio/Dj Yoval Gonzalez/DJ Yoval González - Danzar.mp3',
                 title: 'Danzar',
                 artist: 'DJ Yoval Gonzalez',
-                artwork: 'img/Caratulas/Danzar.png'
+                artwork: 'img/Danzar.png'
             },
 
             {
                 src: 'audio/Dj Yoval Gonzalez/El Cartel - DJ Yoval Gonzalez (Original Mix) _afrohousemusic.mp3',
                 title: 'El Cartel',
                 artist: 'DJ Yoval Gonzalez',
-                artwork: 'img/Caratulas/El Cártel.png'
+                artwork: 'img/El Cártel.png'
             },
 
             {
                 src: 'audio/Dj Yoval Gonzalez/En Pinta  DJ Yoval Gonzalez Original Mix.mp3',
                 title: 'En Pinta',
                 artist: 'DJ Yoval Gonzalez',
-                artwork: 'img/Caratulas/En Pinta.png'
+                artwork: 'img/En Pinta.png'
             },
 
             {
                 src: 'audio/Dj Yoval Gonzalez/En Margarita  DJ Yoval Gonzalez EXTENDER Miami305record.mp3',
                 title: 'En Margarita',
                 artist: 'DJ Yoval Gonzalez',
-                artwork: 'img/Caratulas/Margarita.png'
+                artwork: 'img/Margarita.png'
             },
 
             {
                 src: 'audio/Dj Yoval Gonzalez/Kora Spirit  DJ Yoval Gonzalez  DJ Frank Antony Bootleg afrohouse2023.mp3',
                 title: 'Kora Spirit',
                 artist: 'DJ Yoval Gonzalez',
-                artwork: 'img/Caratulas/Kora Spirit.png'
+                artwork: 'img/Kora Spirit.png'
             },
 
             {
                 src: 'audio/Dj Yoval Gonzalez/Pal pueblo  DJ Yoval Gonzalez Original Mix.mp3',
                 title: 'Pal Pueblo',
                 artist: 'DJ Yoval Gonzalez',
-                artwork: 'img/Caratulas/Pal Pueblo.png'
+                artwork: 'img/Pal Pueblo.png'
             }, 
 
             {
                 src: 'audio/Dj Yoval Gonzalez/Paveo  DJ Yoval Gonzalez Original Mix.mp3',
                 title: 'Paveo',
                 artist: 'DJ Yoval Gonzalez',
-                artwork: 'img/Caratulas/Paveo.png'
+                artwork: 'img/Paveo.png'
             },
 
             {
                 src: 'audio/Dj Yoval Gonzalez/Perico  DJ Yoval Gonzalez Original Mix.mp3',
                 title: 'Perico',
                 artist: 'DJ Yoval Gonzalez',
-                artwork: 'img/Caratulas/Perico.png'
+                artwork: 'img/Perico.png'
             },
 
             {
                 src: 'audio/Dj Yoval Gonzalez/Rockett - DJ Yoval Gonzalez (Original Mix) _afrohousemusic.mp3',
                 title: 'Rockett',
                 artist: 'DJ Yoval Gonzalez',
-                artwork: 'img/Caratulas/ROCKETT.png'
+                artwork: 'img/ROCKETT.png'
             },
 
             {
                 src: 'audio/Dj Yoval Gonzalez/Saifex - DJ Yoval Gonzalez (Original Mix) _housemusichd.mp3',
                 title: 'Saifex',
                 artist: 'DJ Yoval Gonzalez',
-                artwork: 'img/Caratulas/Saifex.png'
+                artwork: 'img/Saifex.png'
             }, 
 
             {
                 src: 'audio/Dj Yoval Gonzalez/Sambo  DJ Yoval Gonzalez Original Mix.mp3',
                 title: 'Sambo',
                 artist: 'DJ Yoval Gonzalez',
-                artwork: 'img/Caratulas/Sambo.png'
+                artwork: 'img/Sambo.png'
             },
 
             {
                 src: 'audio/Dj Yoval Gonzalez/Sea Lion Woman  Bob Sinclar DJ Yoval Gonzalez Remix  afrolatinhouse.mp3',
                 title: 'Sea Lion Woman',
                 artist: 'Bob Sinclar & DJ Yoval Gonzalez',
-                artwork: 'img/Caratulas/Sea Lion Woman.png'
+                artwork: 'img/Sea Lion Woman.png'
             },
 
             {
                 src: 'audio/Dj Yoval Gonzalez/SHOFAR  Farruko K4G DJ Yoval Gonzalez Remix.mp3',
                 title: 'SHOFAR',
                 artist: 'Farruko & DJ Yoval Gonzalez',
-                artwork: 'img/Caratulas/Shofar.png'
+                artwork: 'img/Shofar.png'
             },
 
             {
                 src: 'audio/Dj Yoval Gonzalez/Stop Stop  DJ Yoval Gonzalez Private.mp3',
                 title: 'Stop Stop',
                 artist: 'DJ Yoval Gonzalez',
-                artwork: 'img/Caratulas/Stop Stop.png'
+                artwork: 'img/Stop Stop.png'
             },
 
             {
                 src: 'audio/Dj Yoval Gonzalez/SUAVE - DJ Yoval Gonzalez (Afro Remix).mp3',
                 title: 'SUAVE',
                 artist: 'DJ Yoval Gonzalez',
-                artwork: 'img/Caratulas/Suave.png'
+                artwork: 'img/Suave.png'
             },
 
             {
                 src: 'audio/Dj Yoval Gonzalez/TIKITOM - DJ Yoval Gonzalez (Original Mix).mp3',
                 title: 'TIKITOM',
                 artist: 'DJ Yoval Gonzalez',
-                artwork: 'img/Caratulas/TIKITOM.png'
+                artwork: 'img/TIKITOM.png'
             },
 
             {
                 src: 'audio/Dj Yoval Gonzalez/Tribu Waikiki  DJ Yoval Gonzalez Original Mix.mp3',
                 title: 'Tribu Waikiki',
                 artist: 'DJ Yoval Gonzalez',
-                artwork: 'img/Caratulas/Tribu Waikiki.png'
+                artwork: 'img/Tribu Waikiki.png'
             },
 
             {
                 src: 'audio/Dj Yoval Gonzalez/Tumba  DJ Yoval Gonzalez Original Mix.mp3',
                 title: 'Tumba',
                 artist: 'DJ Yoval Gonzalez',
-                artwork: 'img/Caratulas/Tumba.png'
+                artwork: 'img/Tumba.png'
             },
 
             {
                 src: 'audio/Dj Yoval Gonzalez/Vacilar - DJ Yoval Gonzalez (Original Mix) _afrohousemusic.mp3',
                 title: 'Vacilar',
                 artist: 'DJ Yoval Gonzalez',
-                artwork: 'img/Caratulas/Vacilar.png'
+                artwork: 'img/Vacilar.png'
             },
 
             {
                 src: 'audio/Dj Yoval Gonzalez/Virus - DJ Yoval Gonzalez (Original Mix) _latintechhouse.mp3',
                 title: 'Virus',
                 artist: 'DJ Yoval Gonzalez',
-                artwork: 'img/Caratulas/Virus.png'
+                artwork: 'img/Virus.png'
             }, 
 
             {
                 src: 'audio/Dj Yoval Gonzalez/Your Party  Yoval Gonzalez Original Mix tendências afrolatino 2023.mp3',
                 title: 'Your Party',
                 artist: 'DJ Yoval Gonzalez',
-                artwork: 'img/Caratulas/Your Party.png'
+                artwork: 'img/Your Party.png'
             },
 
             
