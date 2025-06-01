@@ -2333,6 +2333,41 @@
                 artwork: 'img/Caratulas/Salsa/Hansel Camacho.jpg'
             },
 
+            {
+                src: 'audio/2. Salsa/9. Hansel Camacho/10. En Secreto.mp3',
+                title: 'En Secreto',
+                artist: 'Hansel Camacho',
+                artwork: 'img/Caratulas/Salsa/Hansel Camacho.jpg'
+            },
+
+            {
+                src: 'audio/2. Salsa/9. Hansel Camacho/11. Ese Soy Yo.mp3',
+                title: 'Ese Soy Yo',
+                artist: 'Hansel Camacho',
+                artwork: 'img/Caratulas/Salsa/Hansel Camacho.jpg'
+            },
+
+            {
+                src: 'audio/2. Salsa/9. Hansel Camacho/12. Recuerdos De Futbol.mp3',
+                title: 'Recuerdos De Futbol',
+                artist: 'Hansel Camacho',
+                artwork: 'img/Caratulas/Salsa/Hansel Camacho.jpg'
+            },
+
+            {
+                src: 'audio/2. Salsa/9. Hansel Camacho/13. Sinceridad.mp3',
+                title: 'Sinceridad',
+                artist: 'Hansel Camacho',
+                artwork: 'img/Caratulas/Salsa/Hansel Camacho.jpg'
+            },
+
+            {
+                src: 'audio/2. Salsa/9. Hansel Camacho/14. Son De A Onde.mp3',
+                title: 'Son De A Onde',
+                artist: 'Hansel Camacho',
+                artwork: 'img/Caratulas/Salsa/Hansel Camacho.jpg'
+            },
+
         ],
 
         "Jerry Rivera": [
