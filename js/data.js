@@ -2790,12 +2790,42 @@
 
         ],
 
-        'Aleteo Beatz': [ // ALETEO BEATZ
+        "Aleteo Beatz": [
             {
                 src: 'audio/1. Aleteo/2. Aleteo Beatz/',
                 title: '',
                 artist: 'Aleteo Beatz',
-                artwork: 'img/Caratulas/Aleteo/Aleteo Beatz/'
+                artwork: 'img/Caratulas/Aleteo/'
+            },
+
+        ],
+
+        "Aleteo Boom": [
+            {
+                src: 'audio/1. Aleteo/3. Aleteo Boom/',
+                title: '',
+                artist: 'Aleteo Boom',
+                artwork: 'img/Caratulas/Aleteo/'
+            },
+
+        ],
+
+        "Dj Roderick": [
+            {
+                src: 'audio/1. Aleteo/4. Dj Roderick/',
+                title: '',
+                artist: 'Dj Roderick',
+                artwork: 'img/Caratulas/Aleteo/'
+            },
+
+        ],
+
+        "Dj Pilin": [
+            {
+                src: 'audio/1. Aleteo/5. Dj Pilin/',
+                title: '',
+                artist: 'Dj Pilin',
+                artwork: 'img/Caratulas/Aleteo/'
             },
 
         ],
