@@ -2778,6 +2778,25 @@
                 artist: 'Heredero',
                 artwork: 'img/Caratulas/Carranga/1. Heredero/22. Sabor A Derrota.jpg'
             },
+        ],
+
+        'Aleteo VIP HD': [ // ALETEO VIP HD
+            {
+                src: 'audio/1. Aleteo/1. Aleteo VIP HD/',
+                title: '',
+                artist: 'Aleteo VIP HD',
+                artwork: 'img/Caratulas/Aleteo/Aleteo VIP HD/'
+            },
+
+        ],
+
+        'Aleteo Beatz': [ // ALETEO BEATZ
+            {
+                src: 'audio/1. Aleteo/2. Aleteo Beatz/',
+                title: '',
+                artist: 'Aleteo Beatz',
+                artwork: 'img/Caratulas/Aleteo/Aleteo Beatz/'
+            },
 
         ],
     };
