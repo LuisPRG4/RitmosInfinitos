@@ -2880,7 +2880,7 @@
                 src: 'audio/1. Aleteo/1. Aleteo VIP HD/13. Enséñame A Volar (Afrohouse).mp3',
                 title: 'Enséñame A Volar (Afrohouse)',
                 artist: 'Aleteo VIP HD',
-                artwork: 'img/Caratulas/Aleteo/13. Enseñame A Volar (AfroHous).jpg'
+                artwork: 'img/Caratulas/Aleteo/VIP HD/13. Enseñame A Volar (AfroHouse).jpg'
             },
 
             {
