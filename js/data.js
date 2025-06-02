@@ -2785,14 +2785,14 @@
                 src: 'audio/1. Aleteo/1. Aleteo VIP HD/1. Acercate.mp3',
                 title: 'Acercate',
                 artist: 'Aleteo VIP HD',
-                artwork: 'img/Caratulas/Aleteo/'
+                artwork: 'img/Caratulas/Aleteo/VIP HD/1. Acercate.jpg'
             },
 
             {
                 src: 'audio/1. Aleteo/1. Aleteo VIP HD/2. Aguanile (AfroHouse).mp3',
                 title: 'Aguanile (AfroHouse)',
                 artist: 'Aleteo VIP HD',
-                artwork: 'img/Caratulas/Aleteo/'
+                artwork: 'img/Caratulas/Aleteo/VIP HD/2. Aguanile.jpg'
             },
 
 
@@ -2800,7 +2800,7 @@
                 src: 'audio/1. Aleteo/1. Aleteo VIP HD/3. Ah Oh AH.mp3',
                 title: 'Ah Oh AH',
                 artist: 'Aleteo VIP HD',
-                artwork: 'img/Caratulas/Aleteo/'
+                artwork: 'img/Caratulas/Aleteo/VIP HD/3. Ah Oh Ah.jpg'
             },
 
 
@@ -2808,7 +2808,7 @@
                 src: 'audio/1. Aleteo/1. Aleteo VIP HD/4. Boom Tribal.mp3',
                 title: 'Boom Tribal',
                 artist: 'Aleteo VIP HD',
-                artwork: 'img/Caratulas/Aleteo/'
+                artwork: 'img/Caratulas/Aleteo/VIP HD/5. Chacaleo.jpg'
             },
 
 
@@ -2816,7 +2816,7 @@
                 src: 'audio/1. Aleteo/1. Aleteo VIP HD/5. Chacaleo.mp3',
                 title: 'Chacaleo',
                 artist: 'Aleteo VIP HD',
-                artwork: 'img/Caratulas/Aleteo/'
+                artwork: 'img/Caratulas/Aleteo/VIP HD/6. Con Los Terroristas.jpg'
             },
 
 
@@ -2824,7 +2824,7 @@
                 src: 'audio/1. Aleteo/1. Aleteo VIP HD/6. Con Los Terroristas.mp3',
                 title: 'Con Los Terroristas',
                 artist: 'Aleteo VIP HD',
-                artwork: 'img/Caratulas/Aleteo/'
+                artwork: 'img/Caratulas/Aleteo/VIP HD/7. Danger.jpg'
             },
 
 
@@ -2832,7 +2832,7 @@
                 src: 'audio/1. Aleteo/1. Aleteo VIP HD/7. Danger.mp3',
                 title: 'Danger',
                 artist: 'Aleteo VIP HD',
-                artwork: 'img/Caratulas/Aleteo/'
+                artwork: 'img/Caratulas/Aleteo/VIP HD/8. El Cartel De Los Sapos.jpg'
             },
 
 
@@ -2840,7 +2840,7 @@
                 src: 'audio/1. Aleteo/1. Aleteo VIP HD/8. El Cártel.mp3',
                 title: 'El Cártel',
                 artist: 'Aleteo VIP HD',
-                artwork: 'img/Caratulas/Aleteo/'
+                artwork: 'img/Caratulas/Aleteo/VIP HD/9. El Huracán.jpg'
             },
 
 
@@ -2848,7 +2848,7 @@
                 src: 'audio/1. Aleteo/1. Aleteo VIP HD/9. El Huracán.mp3',
                 title: 'El Huracán',
                 artist: 'Aleteo VIP HD',
-                artwork: 'img/Caratulas/Aleteo/'
+                artwork: 'img/Caratulas/Aleteo/VIP HD/'
             },
 
 
@@ -2856,7 +2856,7 @@
                 src: 'audio/1. Aleteo/1. Aleteo VIP HD/10. El Juego Del Calamar Rémix.mp3',
                 title: 'El Juego Del Calamar Rémix',
                 artist: 'Aleteo VIP HD',
-                artwork: 'img/Caratulas/Aleteo/'
+                artwork: 'img/Caratulas/Aleteo/10. El Juego Del Calamar Rémix.jpg'
             },
 
 
@@ -2864,7 +2864,7 @@
                 src: 'audio/1. Aleteo/1. Aleteo VIP HD/11. El Silbido - Sople Silbe.mp3',
                 title: 'El Silbido - Sople Silbe',
                 artist: 'Aleteo VIP HD',
-                artwork: 'img/Caratulas/Aleteo/'
+                artwork: 'img/Caratulas/Aleteo/VIP HD/11. El Silbido.jpg'
             },
 
 
@@ -2872,7 +2872,7 @@
                 src: 'audio/1. Aleteo/1. Aleteo VIP HD/12. El Torero.mp3',
                 title: 'El Torero',
                 artist: 'Aleteo VIP HD',
-                artwork: 'img/Caratulas/Aleteo/'
+                artwork: 'img/Caratulas/Aleteo/VIP HD/12. El Torero.jpg'
             },
 
 
@@ -2880,14 +2880,14 @@
                 src: 'audio/1. Aleteo/1. Aleteo VIP HD/13. Enséñame A Volar (Afrohouse).mp3',
                 title: 'Enséñame A Volar (Afrohouse)',
                 artist: 'Aleteo VIP HD',
-                artwork: 'img/Caratulas/Aleteo/'
+                artwork: 'img/Caratulas/Aleteo/13. Enseñame A Volar (AfroHous).jpg'
             },
 
             {
                 src: 'audio/1. Aleteo/1. Aleteo VIP HD/14. Esta Casa Es Mía.mp3',
                 title: 'Esta Casa Es Mía',
                 artist: 'Aleteo VIP HD',
-                artwork: 'img/Caratulas/Aleteo/'
+                artwork: 'img/Caratulas/Aleteo/VIP HD/14. Esta Casa Es Mía.jpg'
             },
 
 
@@ -2895,7 +2895,7 @@
                 src: 'audio/1. Aleteo/1. Aleteo VIP HD/15. Fur Elise (Ta TA Ta).mp3',
                 title: 'Fur Elise (Ta TA Ta)',
                 artist: 'Aleteo VIP HD',
-                artwork: 'img/Caratulas/Aleteo/'
+                artwork: 'img/Caratulas/Aleteo/VIP HD/15. Fur Elise.jpg'
             },
 
 
@@ -2903,7 +2903,7 @@
                 src: 'audio/1. Aleteo/1. Aleteo VIP HD/16. Ácidos.mp3',
                 title: 'Ácidos',
                 artist: 'Aleteo VIP HD',
-                artwork: 'img/Caratulas/Aleteo/'
+                artwork: 'img/Caratulas/Aleteo/VIP HD/16. Ácidos.jpg'
             },
 
 
@@ -2911,7 +2911,7 @@
                 src: 'audio/1. Aleteo/1. Aleteo VIP HD/17. Guárdelo Ahi.mp3',
                 title: 'Guárdelo Ahi',
                 artist: 'Aleteo VIP HD',
-                artwork: 'img/Caratulas/Aleteo/'
+                artwork: 'img/Caratulas/Aleteo/VIP HD/17. Guárdelo Ahí.jpg'
             },
 
 
@@ -2919,7 +2919,7 @@
                 src: 'audio/1. Aleteo/1. Aleteo VIP HD/18.  Halloween Guaracho.mp3',
                 title: 'Halloween Guaracho',
                 artist: 'Aleteo VIP HD',
-                artwork: 'img/Caratulas/Aleteo/'
+                artwork: 'img/Caratulas/Aleteo/VIP HD/18. Halloween Guaracho.jpg'
             },
 
 
@@ -2927,7 +2927,7 @@
                 src: 'audio/1. Aleteo/1. Aleteo VIP HD/19. Idioma Alienígena.mp3',
                 title: 'Idioma Alienígena',
                 artist: 'Aleteo VIP HD',
-                artwork: 'img/Caratulas/Aleteo/'
+                artwork: 'img/Caratulas/Aleteo/VIP HD/19. Idioma Alienígena.jpg'
             },
 
 
@@ -2935,7 +2935,7 @@
                 src: 'audio/1. Aleteo/1. Aleteo VIP HD/20. Iniwini.mp3',
                 title: 'Iniwini',
                 artist: 'Aleteo VIP HD',
-                artwork: 'img/Caratulas/Aleteo/'
+                artwork: 'img/Caratulas/Aleteo/VIP HD/20. Iniwini.jpg'
             },
 
 
@@ -2943,7 +2943,7 @@
                 src: 'audio/1. Aleteo/1. Aleteo VIP HD/21. La Guaracha Cha Cha Cha.mp3',
                 title: 'La Guaracha Cha Cha Cha',
                 artist: 'Aleteo VIP HD',
-                artwork: 'img/Caratulas/Aleteo/'
+                artwork: 'img/Caratulas/Aleteo/VIP HD/21. La Guaracha Cha Cha Cha.jpg'
             },
 
 
@@ -2951,7 +2951,7 @@
                 src: 'audio/1. Aleteo/1. Aleteo VIP HD/22. La Trompeta Del Diablo.mp3',
                 title: 'La Trompeta Del Diablo',
                 artist: 'Aleteo VIP HD',
-                artwork: 'img/Caratulas/Aleteo/'
+                artwork: 'img/Caratulas/Aleteo/VIP HD/22. La Trompeta Del Diablo.jpg'
             },
 
 
@@ -2959,14 +2959,14 @@
                 src: 'audio/1. Aleteo/1. Aleteo VIP HD/23. La Trompeta Del Diablo 2.mp3',
                 title: 'La Trompeta Del Diablo 2',
                 artist: 'Aleteo VIP HD',
-                artwork: 'img/Caratulas/Aleteo/'
+                artwork: 'img/Caratulas/Aleteo/VIP HD/23. La Trompeta Del Diablo 2.jpg'
             },
 
             {
                 src: 'audio/1. Aleteo/1. Aleteo VIP HD/24. Llevan 4 Días De Fiesta.mp3',
                 title: 'Llevan 4 Días De Fiesta',
                 artist: 'Aleteo VIP HD',
-                artwork: 'img/Caratulas/Aleteo/'
+                artwork: 'img/Caratulas/Aleteo/VIP HD/24. Llevan 4 Días De Fiesta.jpg'
             },
 
 
@@ -2974,14 +2974,14 @@
                 src: 'audio/1. Aleteo/1. Aleteo VIP HD/25. Llorona.mp3',
                 title: 'Llorona',
                 artist: 'Aleteo VIP HD',
-                artwork: 'img/Caratulas/Aleteo/'
+                artwork: 'img/Caratulas/Aleteo/VIP HD/25. Llorona.jpg'
             },
 
             {
                 src: 'audio/1. Aleteo/1. Aleteo VIP HD/26. Lomilo (Afrohouse).mp3',
                 title: 'Lomilo (Afrohouse)',
                 artist: 'Aleteo VIP HD',
-                artwork: 'img/Caratulas/Aleteo/'
+                artwork: 'img/Caratulas/Aleteo/VIP HD/26. Lomillo (AfroHouse).jpg'
             },
 
 
@@ -2989,7 +2989,7 @@
                 src: 'audio/1. Aleteo/1. Aleteo VIP HD/27. Macarena.mp3',
                 title: 'Macarena',
                 artist: 'Aleteo VIP HD',
-                artwork: 'img/Caratulas/Aleteo/'
+                artwork: 'img/Caratulas/Aleteo/VIP HD/27. Macarena.jpg'
             },
 
 
@@ -2997,77 +2997,77 @@
                 src: 'audio/1. Aleteo/1. Aleteo VIP HD/28. No Es Mi Problema - Me Critican.mp3',
                 title: 'No Es Mi Problema - Me Critican',
                 artist: 'Aleteo VIP HD',
-                artwork: 'img/Caratulas/Aleteo/'
+                artwork: 'img/Caratulas/Aleteo/28. No Es Mi Problema.jpg'
             },
 
             {
                 src: 'audio/1. Aleteo/1. Aleteo VIP HD/29. Noche De Fiesta.mp3',
                 title: 'Noche De Fiesta',
                 artist: 'Aleteo VIP HD',
-                artwork: 'img/Caratulas/Aleteo/'
+                artwork: 'img/Caratulas/Aleteo/VIP HD/29. Noche De Fiesta.jpg'
             },
 
             {
                 src: 'audio/1. Aleteo/1. Aleteo VIP HD/30. Oye SIRI.mp3',
                 title: 'Oye SIRI',
                 artist: 'Aleteo VIP HD',
-                artwork: 'img/Caratulas/Aleteo/'
+                artwork: 'img/Caratulas/Aleteo/30. Oye Siri.jpg'
             },
 
             {
                 src: 'audio/1. Aleteo/1. Aleteo VIP HD/31. Rompe Bajos.mp3',
                 title: 'Rompe Bajos',
                 artist: 'Aleteo VIP HD',
-                artwork: 'img/Caratulas/Aleteo/'
+                artwork: 'img/Caratulas/Aleteo/VIP HD/31. Rompe Bajos.jpg'
             },
 
             {
                 src: 'audio/1. Aleteo/1. Aleteo VIP HD/32. Rompe Bajos 2.mp3',
                 title: 'Rompe Bajos 2',
                 artist: 'Aleteo VIP HD',
-                artwork: 'img/Caratulas/Aleteo/'
+                artwork: 'img/Caratulas/Aleteo/VIP HD/32. Rompe Bajos 2.0.jpg'
             },
 
             {
                 src: 'audio/1. Aleteo/1. Aleteo VIP HD/33. Salta Que Salta.mp3',
                 title: 'Salta Que Salta',
                 artist: 'Aleteo VIP HD',
-                artwork: 'img/Caratulas/Aleteo/'
+                artwork: 'img/Caratulas/Aleteo/VIP HD/33. Salta Que Salta.jpg'
             },
 
             {
                 src: 'audio/1. Aleteo/1. Aleteo VIP HD/34. Suéltala.mp3',
                 title: 'Suéltala',
                 artist: 'Aleteo VIP HD',
-                artwork: 'img/Caratulas/Aleteo/'
+                artwork: 'img/Caratulas/Aleteo/VIP HD/34. Sueltala.jpg'
             },
 
             {
                 src: 'audio/1. Aleteo/1. Aleteo VIP HD/35. Tumbatu Tumbazucumba.mp3',
                 title: 'Tumbatu Tumbazucumba',
                 artist: 'Aleteo VIP HD',
-                artwork: 'img/Caratulas/Aleteo/'
+                artwork: 'img/Caratulas/Aleteo/VIP HD/35. Tumbatu Tumbazucumba.jpg'
             },
 
             {
                 src: 'audio/1. Aleteo/1. Aleteo VIP HD/36. Yala.mp3',
                 title: 'Yala',
                 artist: 'Aleteo VIP HD',
-                artwork: 'img/Caratulas/Aleteo/'
+                artwork: 'img/Caratulas/Aleteo/36. Yala.jpg'
             },
 
             {
                 src: 'audio/1. Aleteo/1. Aleteo VIP HD/37. Yo Quiero Una Nena Que Le Guste (Afrohouse).mp3',
                 title: 'Yo Quiero Una Nena Que Le Guste (Afrohouse)',
                 artist: 'Aleteo VIP HD',
-                artwork: 'img/Caratulas/Aleteo/'
+                artwork: 'img/Caratulas/Aleteo/VIP HD/37. Yo Quiero Una Nena Que Le Guste.jpg'
             },
 
             {
                 src: 'audio/1. Aleteo/1. Aleteo VIP HD/38. Zumbaa.mp3',
                 title: 'Zumbaa',
                 artist: 'Aleteo VIP HD',
-                artwork: 'img/Caratulas/Aleteo/'
+                artwork: 'img/Caratulas/Aleteo/VIP HD/38. Zumbaa.jpg'
             },
 
         ],
