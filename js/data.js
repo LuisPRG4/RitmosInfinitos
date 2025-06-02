@@ -3074,17 +3074,283 @@
 
         "Aleteo Beatz": [
             {
-                src: 'audio/1. Aleteo/2. Aleteo Beatz/',
-                title: '',
+                src: 'audio/1. Aleteo/2. Aleteo Beatz/1. Lo Veo Y Lo Quiero (AFRO 2024).mp3',
+                title: 'Lo Veo Y Lo Quiero (AFRO 2024)',
                 artist: 'Aleteo Beatz',
-                artwork: 'img/Caratulas/Aleteo/'
+                artwork: 'img/Caratulas/Aleteo/BEATZ/1.jpg'
+            },
+
+            {
+                src: 'audio/1. Aleteo/2. Aleteo Beatz/3. Aleteo Boom/2. Afro House 2024 🔥.mp3',
+                title: 'Aleteo Boom/2. Afro House 2024 🔥',
+                artist: 'Aleteo Beatz',
+                artwork: 'img/Caratulas/Aleteo/BEATZ/2.jpg'
+            },
+
+            {
+                src: 'audio/1. Aleteo/2. Aleteo Beatz/3. Alarma Toca mi Cuerpo.mp3',
+                title: 'Alarma Toca mi Cuerpo',
+                artist: 'Aleteo Beatz',
+                artwork: 'img/Caratulas/Aleteo/BEATZ/3.jpg'
+            },
+
+            {
+                src: 'audio/1. Aleteo/2. Aleteo Beatz/4. Aleteo Dreaming.mp3',
+                title: 'Aleteo Dreaming',
+                artist: 'Aleteo Beatz',
+                artwork: 'img/Caratulas/Aleteo/BEATZ/4.jpg'
+            },
+
+            {
+                src: 'audio/1. Aleteo/2. Aleteo Beatz/5. Alucinante.mp3',
+                title: 'Alucinante',
+                artist: 'Aleteo Beatz',
+                artwork: 'img/Caratulas/Aleteo/BEATZ/5.jpg'
+            },
+
+            {
+                src: 'audio/1. Aleteo/2. Aleteo Beatz/6. Apocalipsis Zombie.mp3',
+                title: 'Apocalipsis Zombie',
+                artist: 'Aleteo Beatz',
+                artwork: 'img/Caratulas/Aleteo/BEATZ/6.jpg'
+            },
+
+            {
+                src: 'audio/1. Aleteo/2. Aleteo Beatz/7. Astronomy Navidad.mp3',
+                title: 'Astronomy Navidad',
+                artist: 'Aleteo Beatz',
+                artwork: 'img/Caratulas/Aleteo/BEATZ/7.jpg'
+            },
+
+            {
+                src: 'audio/1. Aleteo/2. Aleteo Beatz/8. Bala Navideña.mp3',
+                title: 'Bala Navideña',
+                artist: 'Aleteo Beatz',
+                artwork: 'img/Caratulas/Aleteo/BEATZ/8.jpg'
+            },
+
+            {
+                src: 'audio/1. Aleteo/2. Aleteo Beatz/9. Bum Ba.mp3',
+                title: 'Bum Ba',
+                artist: 'Aleteo Beatz',
+                artwork: 'img/Caratulas/Aleteo/BEATZ/9.jpg'
+            },
+
+            {
+                src: 'audio/1. Aleteo/2. Aleteo Beatz/10. Crazy Saxo.mp3',
+                title: 'Crazy Saxo',
+                artist: 'Aleteo Beatz',
+                artwork: 'img/Caratulas/Aleteo/BEATZ/10.jpg'
+            },
+
+            {
+                src: 'audio/1. Aleteo/2. Aleteo Beatz/11. Distraido.mp3',
+                title: 'Distraido',
+                artist: 'Aleteo Beatz',
+                artwork: 'img/Caratulas/Aleteo/BEATZ/11.jpg'
+            },
+
+                        {
+                src: 'audio/1. Aleteo/2. Aleteo Beatz/12. El Marciano.mp3',
+                title: 'El Marciano',
+                artist: 'Aleteo Beatz',
+                artwork: 'img/Caratulas/Aleteo/BEATZ/12.jpg'
+            },
+
+             {
+                src: 'audio/1. Aleteo/2. Aleteo Beatz/13. El Patron Soy Yo.mp3',
+                title: 'El Patron Soy Yo',
+                artist: 'Aleteo Beatz',
+                artwork: 'img/Caratulas/Aleteo/BEATZ/13.jpg'
+            },
+
+            {
+                src: 'audio/1. Aleteo/2. Aleteo Beatz/14. El Saxofon 2.0.mp3',
+                title: 'El Saxofon 2.0',
+                artist: 'Aleteo Beatz',
+                artwork: 'img/Caratulas/Aleteo/BEATZ/14.jpg'
+            },
+
+            {
+                src: 'audio/1. Aleteo/2. Aleteo Beatz/15. Extasis.mp3',
+                title: 'Extasis',
+                artist: 'Aleteo Beatz',
+                artwork: 'img/Caratulas/Aleteo/BEATZ/15.jpg'
+            },
+
+            {
+                src: 'audio/1. Aleteo/2. Aleteo Beatz/16. Frenesí.mp3',
+                title: 'Frenesí',
+                artist: 'Aleteo Beatz',
+                artwork: 'img/Caratulas/Aleteo/BEATZ/16.jpg'
+            },
+
+            {
+                src: 'audio/1. Aleteo/2. Aleteo Beatz/17. Fua.mp3',
+                title: 'Fua',
+                artist: 'Aleteo Beatz',
+                artwork: 'img/Caratulas/Aleteo/BEATZ/17.jpg'
+            },
+
+            {
+                src: 'audio/1. Aleteo/2. Aleteo Beatz/18. Galaping.mp3',
+                title: 'Galaping',
+                artist: 'Aleteo Beatz',
+                artwork: 'img/Caratulas/Aleteo/BEATZ/18.jpg'
+            },
+
+            {
+                src: 'audio/1. Aleteo/2. Aleteo Beatz/19. Galaxya.mp3',
+                title: 'Galaxya',
+                artist: 'Aleteo Beatz',
+                artwork: 'img/Caratulas/Aleteo/BEATZ/19.jpg'
+            },
+
+            {
+                src: 'audio/1. Aleteo/2. Aleteo Beatz/20. Energy.mp3',
+                title: 'Energy',
+                artist: 'Aleteo Beatz',
+                artwork: 'img/Caratulas/Aleteo/BEATZ/20.jpg'
+            },
+
+            {
+                src: 'audio/1. Aleteo/2. Aleteo Beatz/21. Instinto.mp3',
+                title: 'Instinto',
+                artist: 'Aleteo Beatz',
+                artwork: 'img/Caratulas/Aleteo/BEATZ/21.jpg'
+            },
+
+            {
+                src: 'audio/1. Aleteo/2. Aleteo Beatz/22. Bellaca.mp3',
+                title: 'Bellaca',
+                artist: 'Aleteo Beatz',
+                artwork: 'img/Caratulas/Aleteo/BEATZ/22.jpg'
+            },
+
+            {
+                src: 'audio/1. Aleteo/2. Aleteo Beatz/23. El Ritmo.mp3',
+                title: 'El Ritmo',
+                artist: 'Aleteo Beatz',
+                artwork: 'img/Caratulas/Aleteo/BEATZ/23.jpg'
+            },
+
+            {
+                src: 'audio/1. Aleteo/2. Aleteo Beatz/24. El Saxofón.mp3',
+                title: 'El Saxofón',
+                artist: 'Aleteo Beatz',
+                artwork: 'img/Caratulas/Aleteo/BEATZ/24.jpg'
+            },
+
+            {
+                src: 'audio/1. Aleteo/2. Aleteo Beatz/25. Happy Halloween.mp3',
+                title: 'Happy Halloween',
+                artist: 'Aleteo Beatz',
+                artwork: 'img/Caratulas/Aleteo/BEATZ/25.jpg'
+            },
+
+            {
+                src: 'audio/1. Aleteo/2. Aleteo Beatz/26. Imagine.mp3',
+                title: 'Imagine',
+                artist: 'Aleteo Beatz',
+                artwork: 'img/Caratulas/Aleteo/BEATZ/26.jpg'
+            },
+
+            {
+                src: 'audio/1. Aleteo/2. Aleteo Beatz/27. Lick It.mp3',
+                title: 'Lick It',
+                artist: 'Aleteo Beatz',
+                artwork: 'img/Caratulas/Aleteo/BEATZ/27.jpg'
+            },
+
+            {
+                src: 'audio/1. Aleteo/2. Aleteo Beatz/28. Viva Venezuela.mp3',
+                title: 'Viva Venezuela',
+                artist: 'Aleteo Beatz',
+                artwork: 'img/Caratulas/Aleteo/BEATZ/28.jpg'
+            },
+
+            {
+                src: 'audio/1. Aleteo/2. Aleteo Beatz/29. Agina.mp3',
+                title: 'Agina',
+                artist: 'Aleteo Beatz',
+                artwork: 'img/Caratulas/Aleteo/BEATZ/29.jpg'
+            },
+
+            {
+                src: 'audio/1. Aleteo/2. Aleteo Beatz/31. Saxo Intenso.mp3',
+                title: 'Saxo Intenso',
+                artist: 'Aleteo Beatz',
+                artwork: 'img/Caratulas/Aleteo/BEATZ/31.jpg'
+            },
+
+            {
+                src: 'audio/1. Aleteo/2. Aleteo Beatz/32. Antro.mp3',
+                title: 'Antro',
+                artist: 'Aleteo Beatz',
+                artwork: 'img/Caratulas/Aleteo/BEATZ/32.jpg'
+            },
+
+            {
+                src: 'audio/1. Aleteo/2. Aleteo Beatz/33. Banda De Camión.mp3',
+                title: 'Banda De Camión',
+                artist: 'Aleteo Beatz',
+                artwork: 'img/Caratulas/Aleteo/BEATZ/33.jpg'
+            },
+
+            {
+                src: 'audio/1. Aleteo/2. Aleteo Beatz/34. Vibras.mp3',
+                title: 'Vibras',
+                artist: 'Aleteo Beatz',
+                artwork: 'img/Caratulas/Aleteo/BEATZ/34.jpg'
+            },
+
+            {
+                src: 'audio/1. Aleteo/2. Aleteo Beatz/35. Factory Inc.mp3',
+                title: 'Factory Inc',
+                artist: 'Aleteo Beatz',
+                artwork: 'img/Caratulas/Aleteo/BEATZ/35.jpg'
+            },
+
+            {
+                src: 'audio/1. Aleteo/2. Aleteo Beatz/36. Bart Simpson.mp3',
+                title: 'Bart Simpson',
+                artist: 'Aleteo Beatz',
+                artwork: 'img/Caratulas/Aleteo/BEATZ/36.jpg'
+            },
+
+            {
+                src: 'audio/1. Aleteo/2. Aleteo Beatz/37. Clávala.mp3',
+                title: 'Clávala',
+                artist: 'Aleteo Beatz',
+                artwork: 'img/Caratulas/Aleteo/BEATZ/37.jpg'
+            },
+
+            {
+                src: 'audio/1. Aleteo/2. Aleteo Beatz/38. Color Pink.mp3',
+                title: 'Color Pink',
+                artist: 'Aleteo Beatz',
+                artwork: 'img/Caratulas/Aleteo/BEATZ/38.jpg'
+            },
+
+            {
+                src: 'audio/1. Aleteo/2. Aleteo Beatz/39. E YEA.mp3',
+                title: 'E YEA',
+                artist: 'Aleteo Beatz',
+                artwork: 'img/Caratulas/Aleteo/BEATZ/39.jpg'
+            },
+
+            {
+                src: 'audio/1. Aleteo/2. Aleteo Beatz/40. Murga Taka.mp3',
+                title: 'Murga Taka',
+                artist: 'Aleteo Beatz',
+                artwork: 'img/Caratulas/Aleteo/BEATZ/40.jpg'
             },
 
         ],
 
         "Aleteo Boom": [
             {
-                src: 'audio/1. Aleteo/3. Aleteo Boom/',
+                src: 'audio/1. Aleteo/',
                 title: '',
                 artist: 'Aleteo Boom',
                 artwork: 'img/Caratulas/Aleteo/'
