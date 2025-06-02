@@ -3002,7 +3002,7 @@
 
             {
                 src: 'audio/1. Aleteo/1. Aleteo VIP HD/29. Noche De Fiesta.mp3',
-                title: 'Enséñame A Volar (Afrohouse)',
+                title: 'Noche De Fiesta',
                 artist: 'Aleteo VIP HD',
                 artwork: 'img/Caratulas/Aleteo/'
             },
