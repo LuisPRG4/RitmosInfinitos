@@ -2808,7 +2808,7 @@
                 src: 'audio/1. Aleteo/1. Aleteo VIP HD/4. Boom Tribal.mp3',
                 title: 'Boom Tribal',
                 artist: 'Aleteo VIP HD',
-                artwork: 'img/Caratulas/Aleteo/VIP HD/5. Chacaleo.jpg'
+                artwork: 'img/Caratulas/Aleteo/VIP HD/4. Boom Tribal.jpg'
             },
 
 
@@ -2816,7 +2816,7 @@
                 src: 'audio/1. Aleteo/1. Aleteo VIP HD/5. Chacaleo.mp3',
                 title: 'Chacaleo',
                 artist: 'Aleteo VIP HD',
-                artwork: 'img/Caratulas/Aleteo/VIP HD/6. Con Los Terroristas.jpg'
+                artwork: 'img/Caratulas/Aleteo/VIP HD/5. Chacaleo.jpg'
             },
 
 
@@ -2824,7 +2824,7 @@
                 src: 'audio/1. Aleteo/1. Aleteo VIP HD/6. Con Los Terroristas.mp3',
                 title: 'Con Los Terroristas',
                 artist: 'Aleteo VIP HD',
-                artwork: 'img/Caratulas/Aleteo/VIP HD/7. Danger.jpg'
+                artwork: 'img/Caratulas/Aleteo/VIP HD/6. Con Los Terroristas.jpg'
             },
 
 
@@ -2832,7 +2832,7 @@
                 src: 'audio/1. Aleteo/1. Aleteo VIP HD/7. Danger.mp3',
                 title: 'Danger',
                 artist: 'Aleteo VIP HD',
-                artwork: 'img/Caratulas/Aleteo/VIP HD/8. El Cartel De Los Sapos.jpg'
+                artwork: 'img/Caratulas/Aleteo/VIP HD/7. Danger.jpg'
             },
 
 
@@ -2840,7 +2840,7 @@
                 src: 'audio/1. Aleteo/1. Aleteo VIP HD/8. El Cártel.mp3',
                 title: 'El Cártel',
                 artist: 'Aleteo VIP HD',
-                artwork: 'img/Caratulas/Aleteo/VIP HD/9. El Huracán.jpg'
+                artwork: 'img/Caratulas/Aleteo/VIP HD/8. El Cartel De Los Sapos.jpg'
             },
 
 
