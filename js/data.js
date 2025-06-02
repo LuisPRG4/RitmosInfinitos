@@ -3064,8 +3064,8 @@
             },
 
             {
-                src: 'audio/1. Aleteo/1. Aleteo VIP HD/38. Zuumba.mp3',
-                title: 'Zuumba',
+                src: 'audio/1. Aleteo/1. Aleteo VIP HD/38. Zumbaa.mp3',
+                title: 'Zumbaa',
                 artist: 'Aleteo VIP HD',
                 artwork: 'img/Caratulas/Aleteo/'
             },
