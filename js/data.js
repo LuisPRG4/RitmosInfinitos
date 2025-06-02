@@ -2848,7 +2848,7 @@
                 src: 'audio/1. Aleteo/1. Aleteo VIP HD/9. El Huracán.mp3',
                 title: 'El Huracán',
                 artist: 'Aleteo VIP HD',
-                artwork: 'img/Caratulas/Aleteo/VIP HD/'
+                artwork: 'img/Caratulas/Aleteo/VIP HD/9. El Huracán.jpg'
             },
 
 
@@ -2856,7 +2856,7 @@
                 src: 'audio/1. Aleteo/1. Aleteo VIP HD/10. El Juego Del Calamar Rémix.mp3',
                 title: 'El Juego Del Calamar Rémix',
                 artist: 'Aleteo VIP HD',
-                artwork: 'img/Caratulas/Aleteo/10. El Juego Del Calamar Rémix.jpg'
+                artwork: 'img/Caratulas/Aleteo/VIP HD/10. El Juego Del Calamar Rémix.jpg'
             },
 
 
@@ -2997,7 +2997,7 @@
                 src: 'audio/1. Aleteo/1. Aleteo VIP HD/28. No Es Mi Problema - Me Critican.mp3',
                 title: 'No Es Mi Problema - Me Critican',
                 artist: 'Aleteo VIP HD',
-                artwork: 'img/Caratulas/Aleteo/28. No Es Mi Problema.jpg'
+                artwork: 'img/Caratulas/Aleteo/VIP HD/28. No Es Mi Problema.jpg'
             },
 
             {
@@ -3011,7 +3011,7 @@
                 src: 'audio/1. Aleteo/1. Aleteo VIP HD/30. Oye SIRI.mp3',
                 title: 'Oye SIRI',
                 artist: 'Aleteo VIP HD',
-                artwork: 'img/Caratulas/Aleteo/30. Oye Siri.jpg'
+                artwork: 'img/Caratulas/Aleteo/VIP HD/30. Oye Siri.jpg'
             },
 
             {
@@ -3053,7 +3053,7 @@
                 src: 'audio/1. Aleteo/1. Aleteo VIP HD/36. Yala.mp3',
                 title: 'Yala',
                 artist: 'Aleteo VIP HD',
-                artwork: 'img/Caratulas/Aleteo/36. Yala.jpg'
+                artwork: 'img/Caratulas/Aleteo/VIP HD/36. Yala.jpg'
             },
 
             {
