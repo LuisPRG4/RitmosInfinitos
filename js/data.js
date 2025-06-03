@@ -3161,7 +3161,7 @@
                 src: 'audio/1. Aleteo/2. Aleteo Beatz/13. El Patron Soy Yo.mp3',
                 title: 'El Patron Soy Yo',
                 artist: 'Aleteo Beatz',
-                artwork: 'img/Caratulas/Aleteo/BEATZ/13.jpg'
+                artwork: 'img/Caratulas/Aleteo/BEATZ/13.png'
             },
 
             {
@@ -3182,7 +3182,7 @@
                 src: 'audio/1. Aleteo/2. Aleteo Beatz/16. Frenesí.mp3',
                 title: 'Frenesí',
                 artist: 'Aleteo Beatz',
-                artwork: 'img/Caratulas/Aleteo/BEATZ/16.jpg'
+                artwork: 'img/Caratulas/Aleteo/BEATZ/16.png'
             },
 
             {
@@ -3266,14 +3266,14 @@
                 src: 'audio/1. Aleteo/2. Aleteo Beatz/28. Viva Venezuela.mp3',
                 title: 'Viva Venezuela',
                 artist: 'Aleteo Beatz',
-                artwork: 'img/Caratulas/Aleteo/BEATZ/28.jpg'
+                artwork: 'img/Caratulas/Aleteo/BEATZ/28.png'
             },
 
             {
                 src: 'audio/1. Aleteo/2. Aleteo Beatz/29. Agina.mp3',
                 title: 'Agina',
                 artist: 'Aleteo Beatz',
-                artwork: 'img/Caratulas/Aleteo/BEATZ/29.jpg'
+                artwork: 'img/Caratulas/Aleteo/BEATZ/29.png'
             },
 
             {
@@ -3294,7 +3294,7 @@
                 src: 'audio/1. Aleteo/2. Aleteo Beatz/33. Banda De Camión.mp3',
                 title: 'Banda De Camión',
                 artist: 'Aleteo Beatz',
-                artwork: 'img/Caratulas/Aleteo/BEATZ/33.jpg'
+                artwork: 'img/Caratulas/Aleteo/BEATZ/33.png'
             },
 
             {
