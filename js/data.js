@@ -3803,4 +3803,165 @@
             },
 
         ],
+
+        "MIXES": [
+            {
+                src: 'audio/4. MIXES/(1) AFRO CRIMINAL TEAM GUARICO X DJ MARWIN GONZALEZ EL CARTEL X DJ PABLO SANTAELLA EL INDETENIBLE.mp3',
+                title: 'Afro Criminal',
+                artist: 'Team Guárico X Dj Marwin Gonzalez X Dj Pablo Santaella el indetenible',
+                artwork: 'img/Caratulas/MIXES/1. TEAM GUÁRICO.png'
+            },
+
+            {
+                src: 'audio/4. MIXES/(3). 🇻🇪🔥  Afro Candeleteo El Guason Recargado (Dj Yorbran Mariño)  🇻🇪🔥(MP3_128K).mp3',
+                title: '🔥  Afro Candeleteo',
+                artist: 'El Guason Recargado (Dj Yorbran Mariño)',
+                artwork: 'img/Caratulas/MIXES/'
+            },
+
+            {
+                src: 'audio/4. MIXES/(4). 🇻🇪🔥  EL Pelon car audio_by yanis thebestshow.  🇻🇪🔥(MP3_128K).mp3',
+                title: 'Afro House The Bestshow',
+                artist: 'Yanis Thebestshow',
+                artwork: 'img/Caratulas/MIXES/'
+            },
+
+            {
+                src: 'audio/4. MIXES/(6). 🇻🇪🔥 Afro Boleta 2025 - El Guasa Tk - Prod Jose Angel Oca(MP3_128K).mp3',
+                title: 'Afro Boleta 2025',
+                artist: 'El Guasa Tk - Prod Jose Angel Oca',
+                artwork: 'img/Caratulas/MIXES/'
+            },
+
+            {
+                src: 'audio/4. MIXES/(7). 🇻🇪🔥 Afro Charraska Vs Electro 2025 - Prod Jose Angel Oca(MP3_128K).mp3',
+                title: 'Afro Charraska Vs Electro 2025',
+                artist: 'Prod Jose Angel Oca',
+                artwork: 'img/Caratulas/MIXES/'
+            },
+
+            {
+                src: 'audio/4. MIXES/(8). 🇻🇪🔥 AFRO HOUSE 2025 EL INSOPORTABLE CAR AUDIO (TEAM JNC CAR AUDIO) DJ VICTOR MIX   🇻🇪🔥(MP3_128K).mp3',
+                title: 'AFRO HOUSE 2025 🔥 EL INSOPORTABLE CAR AUDIO',
+                artist: '(TEAM JNC CAR AUDIO) DJ VICTOR MIX',
+                artwork: 'img/Caratulas/MIXES/'
+            },
+
+            {
+                src: 'audio/4. MIXES/(10). 🇻🇪🔥 ELECTRO HOUSE 2025 EL COMBO SUICIDA  🇻🇪🔥(MP3_128K).mp3',
+                title: 'ELECTRO HOUSE 2025',
+                artist: 'EL COMBO SUICIDA',
+                artwork: 'img/Caratulas/MIXES/'
+            },
+
+            {
+                src: 'audio/4. MIXES/(11). 🇻🇪🔥 Mix Macabro Car Audio Con Varios Dj´s 2K25   🇻🇪🔥(MP3_128K).mp3',
+                title: 'Mix Macabro Car Audio Con Varios Dj´s 2K25',
+                artist: 'Memes Mix Tu Página Minitequera',
+                artwork: 'img/Caratulas/MIXES/'
+            },
+
+            {
+                src: 'audio/4. MIXES/(15). ELECTRO HOUSE 2025 EL COMBO SUICIDA DJ ELMER EL MAS CREATIVO FT DJ EDUAR ALCANTARA EL BARBERO MIX(MP3_128K).mp3',
+                title: 'ELECTRO HOUSE 2025 EL COMBO SUICIDA',
+                artist: 'DJ ELMER EL MAS CREATIVO FT DJ EDUAR ALCANTARA EL BARBERO MIX',
+                artwork: 'img/Caratulas/MIXES/'
+            },
+
+            {
+                src: 'audio/4. MIXES/(18). 🇻🇪🔥 AFRO HOUSE 2025 VOL 1 _ DJ ELMER EL MAS CREATIVO FT DJ ANGEL LA DIFERENCIA   🇻🇪🔥(MP3_128K).mp3',
+                title: 'AFRO HOUSE 2025 VOL 1',
+                artist: 'DJ ELMER EL MAS CREATIVO FT DJ ANGEL LA DIFERENCIA',
+                artwork: 'img/Caratulas/MIXES/'
+            },
+
+            {
+                src: 'audio/4. MIXES/(19). 🇻🇪🔥 AFRO BOLETA SECC 1 EL COMBO PAVITO DJ JOSE ALMEA EL WAY LEVEL FT DJ SAMUEL EL CREATIVO(MP3_128K).mp3',
+                title: 'AFRO BOLETA SECC 1 EL COMBO PAVITO',
+                artist: 'DJ JOSE ALMEA EL WAY LEVEL FT DJ SAMUEL EL CREATIVO',
+                artwork: 'img/Caratulas/MIXES/'
+            },
+
+            {
+                src: 'audio/4. MIXES/(22). 🇻🇪🔥 Electrónica Vol 2 El Patrón El Homicida Del Car Audio X Juan Mix - Carlos José - Jose Ramírez DJ(MP3_128K).mp3',
+                title: 'Electrónica Vol 2 El Patrón El Homicida Del Car Audio',
+                artist: 'Juan Mix - Carlos José - Jose Ramírez DJ',
+                artwork: 'img/Caratulas/MIXES'
+            },
+
+            {
+                src: 'audio/4. MIXES/(23). 🇻🇪🔥 AFRO CHARRASKA JUNIO 2025 DJ GABRIE LE ALTO CALIBRE. FT PROD JOSE ANGEL OCA.mp3',
+                title: 'AFRO CHARRASKA JUNIO 2025',
+                artist: 'DJ GABRIEL EL ALTO CALIBRE FT PROD JOSE ANGEL OCA',
+                artwork: 'img/Caratulas/MIXES/'
+            },
+
+            {
+                src: 'audio/4. MIXES/(25). 🇻🇪🔥 AFRO candela   🇻🇪🔥(MP3_128K).mp3',
+                title: 'AFRO candela',
+                artist: 'Prod. José Ángel Oca',
+                artwork: 'img/Caratulas/MIXES/'
+            },
+
+            {
+                src: 'audio/4. MIXES/(26). 🇻🇪🔥AFRO HOUSE 2025 C4 DISCPLAY _ DJ ELMER EL MAS CREATIVO.    🇻🇪🔥(MP3_128K).mp3',
+                title: 'AFRO HOUSE 2025 C4 DISCPLAY',
+                artist: 'DJ ELMER EL MAS CREATIVO',
+                artwork: 'img/Caratulas/MIXES/'
+            },
+
+            {
+                src: 'audio/4. MIXES/(27). EL AFRO QUE TE CONTARON 2025 DJ JALBERTH LA DIFERENCIA FT DJ ANTHONY MIX DJ JOSE RODRÍGUEZ 🇻🇪🔥(MP3_128K).mp3',
+                title: 'EL AFRO QUE TE CONTARON 2025',
+                artist: 'DJ JALBERTH LA DIFERENCIA FT DJ ANTHONY MIX DJ JOSE RODRÍGUEZ',
+                artwork: 'img/Caratulas/MIXES/'
+            },
+
+            {
+                src: 'audio/4. MIXES/(28). Afro Odioso X El Terror Car Audio - Dj Angel Mariño X Art Intenso.mp3',
+                title: 'Afro Odioso X El Terror Car Audio',
+                artist: 'Dj Angel Mariño X Art Intenso',
+                artwork: 'img/Caratulas/MIXES/1. TEAM GUÁRICO.png'
+            },
+
+            {
+                src: 'audio/4. MIXES/(30). 🔥🇻🇪AFRO DEL MOMENTO ✖IMPACTO DISCPLAY DJ SAMUEL EL CREATIVO FT DJ YEFERSON MEDINA(MP3_128K).mp3',
+                title: 'Afro House Mix Junio 2025 Party Afro House Remixes',
+                artist: 'Prod. José Ángel Oca',
+                artwork: 'img/Caratulas/MIXES/'
+            },
+
+            
+            {
+                src: 'audio/4. MIXES/(31). 🎶⚡Afro House Para Lacras ✘ Dj Samuel El Creativo ✘ El Team Odioso🎶⚡(MP3_128K).mp3',
+                title: '🎶⚡Afro House Para Lacras',
+                artist: 'Dj Samuel El Creativo ✘ El Team Odioso🎶⚡',
+                artwork: 'img/Caratulas/MIXES/'
+            },
+
+            
+            {
+                src: 'audio/4. MIXES/(33). 🇻🇪🔥 Retro Mix Team Guarico  🇻🇪🔥(MP3_128K).mp3',
+                title: 'Retro Mix Team Guarico',
+                artist: 'Team Guarico',
+                artwork: 'img/Caratulas/MIXES/'
+            },
+
+            
+            {
+                src: 'audio/4. MIXES/(34). 🇻🇪🔥 Electro Boleta 2025 - Prod Jose Angel Oca(MP3_128K).mp3',
+                title: 'Electro Boleta 2025',
+                artist: 'Prod. José Ángel Oca',
+                artwork: 'img/Caratulas/MIXES/'
+            },
+
+            
+            {
+                src: 'audio/4. MIXES/(35). 🇻🇪🔥 Electro Boleta 2025 - Dj Jesús Music(MP3_128K).mp3',
+                title: 'Electro Boleta 2025',
+                artist: 'Dj Jesús Music',
+                artwork: 'img/Caratulas/MIXES/'
+            },
+
+        ],
     };
